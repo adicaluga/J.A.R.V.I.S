@@ -1,0 +1,30 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore environment files
+.env
+venv/
+node_modules/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore log and temp files
+*.log
+.DS_Store
+
+basic-Jarvis-A.I-Code-main/
+test2/
+PyAudio-0.2.13-cp311-cp311-win_amd64.whl
+PyAudio-0.2.13.tar.gz
+basic-Jarvis-A.I-Code-main.zip
+scripts/
+.ropeproject/
+test.py
+testin.py
