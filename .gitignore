@@ -28,3 +28,8 @@ scripts/
 .ropeproject/
 test.py
 testin.py
+ai/Advanced-ai/dataset/
+ai/Advanced-ai/faces/kshithij/
+ai/Advanced-ai/images/
+ai/Advanced-ai/sample/
+ai/Advanced-ai/samples/
